@@ -83,3 +83,7 @@ http://hotoo.me/hongbao/2015/alipay.ics
   ![2](./ical-2.png)
 
 1. 点击 `好`，就好了。
+
+### 其他手机？
+
+我没有其他手机，如果你有不妨 [提供下订阅过程的截屏](https://github.com/hotoo/hongbao/issues)，谢谢 ：）
