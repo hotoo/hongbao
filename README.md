@@ -34,3 +34,9 @@ http://hotoo.me/hongbao/2015/alipay.ics
 1. ![4](./iphone-4.png)
 1. ![5](./iphone-5.png)
 1. ![6](./iphone-6.png)
+
+### Mac iCal
+
+1. ![0](./ical-0.png)
+1. ![1](./ical-1.png)
+1. ![2](./ical-2.png)
