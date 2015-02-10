@@ -13,15 +13,17 @@
 http://hotoo.me/hongbao/2015/alipay.ics
 ```
 
+![alipay qr code](./2015/alipay.png)
+
 或
 
 ```
 https://www.google.com/calendar/ical/umf5j0kge0rks5kermj2a1u6ts%40group.calendar.google.com/public/basic.ics
 ```
 
-可以使用手机支付宝扫描下面的二维码，拷贝上面提供的 URL 地址。
+![Google calendar url](./2015/google-calendar.png)
 
-![alipay qr code](./2015/alipay.png)
+可以使用手机支付宝扫描各自下面的二维码，拷贝上面提供的 URL 地址。
 
 ## 订阅方法
 
