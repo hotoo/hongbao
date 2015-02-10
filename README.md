@@ -13,6 +13,12 @@
 http://hotoo.me/hongbao/2015/alipay.ics
 ```
 
+或
+
+```
+https://www.google.com/calendar/ical/umf5j0kge0rks5kermj2a1u6ts%40group.calendar.google.com/public/basic.ics
+```
+
 可以使用手机支付宝扫描下面的二维码，拷贝上面提供的 URL 地址。
 
 ![alipay qr code](./2015/alipay.png)
@@ -26,7 +32,7 @@ http://hotoo.me/hongbao/2015/alipay.ics
 
   ![0](./google-0.png)
 
-1. 弹出的 Add by URL 对话框中，URL 填入 `http://hotoo.me/hongbao/2015/alipay.ics`
+1. 弹出的 Add by URL 对话框中，URL 填入 `https://www.google.com/calendar/ical/umf5j0kge0rks5kermj2a1u6ts%40group.calendar.google.com/public/basic.ics`
 
   ![1](./google-1.png)
 
