@@ -27,7 +27,7 @@ https://www.google.com/calendar/ical/umf5j0kge0rks5kermj2a1u6ts%40group.calendar
 
 ## 预览
 
-<iframe src="https://www.google.com/calendar/embed?src=umf5j0kge0rks5kermj2a1u6ts%40group.calendar.google.com&ctz=Asia/Shanghai" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+https://www.google.com/calendar/embed?src=umf5j0kge0rks5kermj2a1u6ts%40group.calendar.google.com&ctz=Asia/Shanghai
 
 ## 订阅方法
 
