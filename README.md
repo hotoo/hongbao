@@ -25,6 +25,10 @@ https://www.google.com/calendar/ical/umf5j0kge0rks5kermj2a1u6ts%40group.calendar
 
 可以使用手机支付宝扫描各自下面的二维码，拷贝上面提供的 URL 地址。
 
+## 预览
+
+<iframe src="https://www.google.com/calendar/embed?src=umf5j0kge0rks5kermj2a1u6ts%40group.calendar.google.com&ctz=Asia/Shanghai" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 ## 订阅方法
 
 ### Google 日历
