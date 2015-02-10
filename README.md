@@ -94,4 +94,4 @@ https://www.google.com/calendar/ical/umf5j0kge0rks5kermj2a1u6ts%40group.calendar
 
 ### 其他手机？
 
-我没有其他手机，如果你有不妨 [提供下订阅过程的截屏](https://github.com/hotoo/hongbao/issues)，谢谢 ：）
+我没有其他手机，如果你有，不妨提供下 [订阅过程的截屏](https://github.com/hotoo/hongbao/issues)，谢谢 ：）
