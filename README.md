@@ -1,7 +1,7 @@
 
-# README
+# 2015年新春红包
 
-这个仓库提供了支付宝 2015年新年红包时间，并设置了提前 5分钟提醒。
+这个仓库提供了手机支付宝、微信、手机QQ 在 2015年新年派发红包的时间，并设置了提前 5分钟提醒。
 
 你只需要订阅这个日历，就可以在收到提醒时，开心的抢红包了。
 
@@ -10,10 +10,10 @@
 ## 订阅日历地址
 
 ```
-http://hotoo.me/hongbao/2015/alipay.ics
+http://hotoo.me/hongbao/2015/hongbao.ics
 ```
 
-![alipay qr code](./2015/alipay.png)
+![hongbao qr code](./2015/hotoo.png)
 
 或
 
@@ -67,7 +67,7 @@ https://www.google.com/calendar/embed?src=umf5j0kge0rks5kermj2a1u6ts%40group.cal
 
   ![4](./iphone-4.png)
 
-1. `服务器` 中填入 `http://hotoo.me/hongbao/2015/alipay.ics` 点击 `下一步`
+1. `服务器` 中填入 `http://hotoo.me/hongbao/2015/hongbao.ics` 点击 `下一步`
 
   ![5](./iphone-5.png)
 
@@ -84,7 +84,7 @@ https://www.google.com/calendar/embed?src=umf5j0kge0rks5kermj2a1u6ts%40group.cal
 
   ![0](./ical-0.png)
 
-1. `日历 URL` 中填入 `http://hotoo.me/hongbao/2015/alipay.ics`
+1. `日历 URL` 中填入 `http://hotoo.me/hongbao/2015/hongbao.ics`
 
   ![1](./ical-1.png)
 
