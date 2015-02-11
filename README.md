@@ -29,6 +29,10 @@ https://www.google.com/calendar/ical/umf5j0kge0rks5kermj2a1u6ts%40group.calendar
 
 https://www.google.com/calendar/embed?src=umf5j0kge0rks5kermj2a1u6ts%40group.calendar.google.com&ctz=Asia/Shanghai
 
+## 如何抢红包？
+
+![alipay](./images/alipay-demo.gif)
+
 ## 订阅方法
 
 ### Google 日历
