@@ -49,7 +49,7 @@ https://www.google.com/calendar/embed?src=umf5j0kge0rks5kermj2a1u6ts%40group.cal
 1. 找到 `设置` 并点击启动。
 1. 进入设置
 
-  ![0](./images/phone-0.png)
+  ![0](./images/iphone-0.png)
 
 1. 点击 `邮件、通讯录、日历`
 
